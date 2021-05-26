@@ -3,7 +3,7 @@
 
 ## Step-0
 
-###B e on linux
+### Be on linux
 
 ## Step-1
 
