@@ -23,7 +23,7 @@
 
 ##  Step-5
 
-###C  lick Receive button on left side of wallet
+### Click Receive button on left side of wallet
 
 ## Step-6
 
@@ -79,4 +79,4 @@
   
 ### Open new tab in terminal
 
-* tail -f distribution.log *
+*tail -f distribution.log*
